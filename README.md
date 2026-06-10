@@ -11,17 +11,20 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Final-year B.Tech student in **Information Technology**  
-- ❤️ Passionate about building real-world **AI systems** — from idea to deployment  
-- 🌱 Currently learning **LLMs, LangChain, Vector Databases, DevOps**  
+ ### 👨‍💻 About Me
+- 🎓 B.Tech student in **Information Technology & Engineering** at MAIT, Delhi (2026)
+- ❤️ Passionate about building real-world **AI/Full-Stack systems** — from idea to deployment
+- 🌱 Currently deepening skills in **LLMs, LangChain, RAG pipelines, and DSA**
+- 💼 Actively seeking **entry-level roles** in Full-Stack, AI/ML, or Data Engineering
 
 ---
 
 ### 🔧 What I Do
-- ⚡ Develop **LLM-powered applications & RAG pipelines**  
-- 🛠 Build & deploy **FastAPI-based ML microservices** with Docker & CI/CD  
-- ☁️ Experiment with **Cloud (AWS, GCP), VectorDBs, and NLP frameworks**  
+- 🤖 Build **LLM-powered applications** using LangChain, Gemini API, and FAISS vector search
+- ⚡ Develop **full-stack web apps** with Django REST Framework, React.js, FastAPI & Next.js
+- 📊 Perform **data analysis & visualization** using Python, SQL, Power BI, and Tableau
+- 🔄 Automate workflows with **n8n** and integrate AI into production-ready pipelines
+- 🔒 Implement **privacy-preserving ML** techniques (Differential Privacy, DP-SGD)
 
 ---
 

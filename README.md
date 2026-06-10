@@ -71,17 +71,21 @@
 ---
 
 ### 📌 My Projects
-- [🔹 LinkedIn Profile Outreach Automation](https://github.com/pranjaykumar21/LinkedIn-Profile-Outreach-Automation)  
-   Automates LinkedIn profile data collection and outreach messages using Python + HTML.  
 
-- [🔹 Dreamweaver Travel](https://github.com/pranjaykumar21/dreamweaver-travel)  
-   A travel planner web app built with React, Vite, TypeScript, Tailwind, and ShadCN.  
+- [🔹 AI Mental Wellness Journal](https://github.com/potassiumk2121/AIMentalWellnessJournal)
+  A full-stack mental health platform using Django REST, React.js, LangChain, Gemini API, FAISS, and differential privacy (DP-SGD).
 
-- [🔹 Steganography Gen-AI](https://github.com/pranjaykumar21/Steganography-Gen-AI)  
-   Securely embed and retrieve hidden data inside images using AI techniques.  
+- [🔹 AI Travel Planner](https://github.com/pranjaykumar21/dreamweaver-travel)
+  Automated travel planning workflows built with n8n, Google Sheets, and LLM integration.
 
-- [🔹 AI Warehouse Management](https://github.com/pranjaykumar21/AIWMS)  
-   Optimizes warehouse operations and logistics with machine learning.  
+- [🔹 Crop Recommendation ML System](https://github.com/pranjaykumar21)
+  Machine learning model recommending optimal crops based on soil and climate parameters.
+
+- [🔹 Netflix EDA](https://github.com/pranjaykumar21)
+  Exploratory data analysis on Netflix dataset uncovering trends in content, genres, and release patterns.
+
+- [🔹 Geospatial NLP Query System](https://github.com/pranjaykumar21)
+  Natural language interface for querying geospatial data using NLP techniques.
 
 ---
 
